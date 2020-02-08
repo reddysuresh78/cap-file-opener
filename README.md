@@ -38,3 +38,12 @@ this is sample code that generates pdf using pdfmake and opens it using this plu
         } catch (error) {
         console.error('Unable to write file', error);
       }
+      
+ In the generated android project, in Mainactivity.java, add the following line. 
+ 
+   public void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+
+    this.init(savedInstanceState, new ArrayList<Class<? extends Plugin>>() {{
+      add(CapFileOpener.class);
+    }});
