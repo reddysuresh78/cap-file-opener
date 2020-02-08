@@ -1,4 +1,4 @@
-# cap-file-opener
+# cap-pdf-file-opener
 This plugin is built on capacitor platform to open PDF files on android devices
 
 Usage:
