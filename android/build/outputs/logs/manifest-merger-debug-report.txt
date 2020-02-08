@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml:2:3-4:14
+INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml:2:3-4:14
+INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml:2:3-4:14
+INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml:2:3-4:14
+INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml:2:3-4:14
+INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml:2:3-4:14
+INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml:2:3-4:14
+	package
+		ADDED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml:3:7-56
+		INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+		INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+		ADDED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml:2:3-4:14
+		INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+		ADDED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml:2:3-4:14
+		INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml:2:13-71
+uses-sdk
+INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+		ADDED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+		INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+		ADDED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
+		INJECTED from F:\reactjs\ionic\ionicreact\plugin\cap-file-opener\android\src\main\AndroidManifest.xml
